@@ -25,5 +25,5 @@ To run your tests
 
 | Assignments                       | Links                                                               |
 | ---                               |:---------------------------------------------------------------------------------------:|
-|1- Code challenge 1 reverseArray   |   [link] https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge1-array-reverse/readme.md  |
+|1- Code challenge 1 reverseArray   |   [link] (https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge1-array-reverse/readme.md)  |
 
