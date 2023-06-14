@@ -6,31 +6,43 @@
 
 
 ## Approach & Efficiency
- > both has the same BigO = O(n) 
-
+>both has the same BigO = O(logn)  because the function decrease in the rate of complexity growth
 ## Solution
 
 ``` JavaScript
-
 function insertShiftArray(arr, value) {
-    var index = Math.ceil(arr.length / 2);
-    arr.splice(index, 0, value);
-    return arr;
+    const midIndex = Math.ceil(arr.length / 2);
+    const newArray = [];
+
+    for (let i = 0; i < midIndex; i++) {
+        newArray.push(arr[i]);
+    }
+
+    newArray.push(value);
+
+    for (let i = midIndex; i < arr.length; i++) {
+        newArray.push(arr[i]);
+    }
+
+    return newArray;
 }
-
-
-
 //Stretch Goal
 function removeShiftArray(arr) {
-    var index = Math.floor(arr.length / 2);
-    arr.splice(index, 1);
-    return arr;
+    const midIndex = Math.floor(arr.length / 2);
+
+    const newArray = [];
+
+    for (let i = 0; i < midIndex; i++) {
+        newArray.push(arr[i]);
+    }
+
+    for (let i = midIndex + 1; i < arr.length; i++) {
+        newArray.push(arr[i]);
+    }
+
+    return newArray;
 }
 
-module.exports = {
-    insertShiftArray,
-    removeShiftArray
-};
 ```
 
 ![Solution](./testImg.png)
