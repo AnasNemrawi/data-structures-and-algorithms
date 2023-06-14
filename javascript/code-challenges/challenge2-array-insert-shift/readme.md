@@ -6,8 +6,8 @@
 
 
 ## Approach & Efficiency
->both has the same BigO = O(logn)  because the function decrease in the rate of complexity growth
-## Solution
+>BigO = O(1) => it's a one process that takes the same time independently of how bigger the variables are, so it's a constant time ratio with process.
+>Space: complexity is 0(0) since we arendadding any new significant space in our memory, the same array is returned but changed.## Solution
 
 ``` JavaScript
 function insertShiftArray(arr, value) {
