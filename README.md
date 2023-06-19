@@ -27,4 +27,4 @@ To run your tests
 
 |2- Code challenge 1 reverse Array   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge1-array-reverse/readme.md)  |
 |3- Code challenge 2 array insert shift   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge2-array-insert-shift/readme.md)  |
-|4- Code challenge 3  array Linked List   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge4-array-binary-search)  |
+|4- Code challenge 3  array Linked List   |   [link]((https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge3-array-binary-search/readme.md)  |
