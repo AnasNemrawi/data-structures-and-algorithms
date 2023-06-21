@@ -1,1 +1,1 @@
-![Whiteboard](./Code%20Challenge%3A%20Class%2004/)
+![Whiteboard](./whiteBord.jpg)
