@@ -27,5 +27,18 @@ To run your tests
 |2- Code challenge 1 reverse Array   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge1-array-reverse/readme.md)  |
 |3- Code challenge 2 array insert shift   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge2-array-insert-shift/readme.md)  |
 |4- Code challenge 3  binary search   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge3-array-binary-search/readme.md)  |
-|5- Code challenge Class 4  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Code%20Challenge%3A%20Class%2004/readme.md)
-|6- Code challenge 6 linked list insertions  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge6-linked-list-insertions)
+|5- Code challenge Class 4  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Code%20Challenge%3A%20Class%2004/readme.md)   |
+|6- Code challenge 6 linked list insertions  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge6-linked-list-insertions)   |
+|7- Code challenge 7 linked list kth  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge7linked-list-kth)   |
+
+
+
+
+
+
+
+
+
+
+
+
