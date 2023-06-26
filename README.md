@@ -23,7 +23,6 @@ To run your tests
 
 | Assignments                       | Links                                                               |
 | ---                               |:---------------------------------------------------------------------------------------:|
-
 |1- Code challenge 1 reverse Array   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge1-array-reverse/readme.md)  |
 |2- Code challenge 2 array insert shift   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge2-array-insert-shift/readme.md)  |
 |3- Code challenge 3  binary search   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge3-array-binary-search/readme.md)  |
