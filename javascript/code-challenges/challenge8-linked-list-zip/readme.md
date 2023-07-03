@@ -1,4 +1,4 @@
-# Linked Lists Zipped List
+# Zipped Linked Lists 
 
 Write a function  that takes two linked list , and Zip the two linked lists together into one so that the nodes alternate between the two lists and return a reference to the the zipped list.
 
