@@ -1,4 +1,4 @@
-# Challenge Title
+# linked-list
 
 Making a linked list contains several methods such as (Insert, Includes, toString) , insert to add a node at the beginning of the Linked list, includes to search about a value inside the linked list, toString to return all the values as a string for all nodes.
 
