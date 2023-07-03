@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 class Node {
     constructor(value, next = null) {
@@ -7,11 +7,12 @@ class Node {
     }
 }
 
-class Linkedlist {
+class LinkedList {
     constructor() {
         this.head = null;
         this.size = 0;
     }
+
     insert(value) {
         this.head = new Node(value, this.head);
         this.size++;
@@ -20,62 +21,58 @@ class Linkedlist {
     append(newValue) {
         if (this.head === null) {
             this.head = new Node(newValue, null);
-            this.size++
+            this.size++;
         } else {
-            let iterative = this.head
-
+            let iterative = this.head;
             while (iterative.next !== null) {
-                iterative = iterative.next
+                iterative = iterative.next;
             }
             iterative.next = new Node(newValue, null);
-            this.size++
+            this.size++;
         }
     }
 
     insertBefore(value, newValue) {
         if (this.head === null) {
-            this.head = new Node(newValue, this.head)
-            this.size++
-        }
-        else if (this.head.value === value) {
-            this.head = new Node(newValue, this.head)
-            this.size++
-        }
-        else {
-            let current = this.head
+            this.head = new Node(newValue, this.head);
+            this.size++;
+        } else if (this.head.value === value) {
+            this.head = new Node(newValue, this.head);
+            this.size++;
+        } else {
+            let current = this.head;
             let loopPoint = this.head.next;
-            if (loopPoint === null) return console.log('Value Not Found')
+            if (loopPoint === null) return console.log('Value Not Found');
             while (value !== loopPoint.value) {
-                loopPoint = loopPoint.next
-                current = current.next
-                if (loopPoint === null) return console.log('Value Not Found')
+                loopPoint = loopPoint.next;
+                current = current.next;
+                if (loopPoint === null) return console.log('Value Not Found');
             }
-            let newNode = new Node(newValue, loopPoint)
+            let newNode = new Node(newValue, loopPoint);
             current.next = newNode;
-            this.size++
+            this.size++;
         }
     }
+
     insertAfter(value, newValue) {
         if (this.head === null) {
-            this.head = new Node(newValue, this.head)
-            this.size++
-        }
-        else if (this.head.value === value) {
-
+            this.head = new Node(newValue, this.head);
+            this.size++;
+        } else if (this.head.value === value) {
             this.head.next = new Node(newValue, this.head.next);
-            this.size++
-        }
-        else {
+            this.size++;
+        } else {
             let loopPoint = this.head.next;
-            if (loopPoint === null) return console.log('Value Not Found')
+            if (loopPoint === null) return console.log('Value Not Found');
             while (value !== loopPoint.value) {
-                loopPoint = loopPoint.next
-                if (loopPoint === null) return console.log('Value Not Found')
+                loopPoint = loopPoint.next;
+                if (loopPoint === null) return console.log('Value Not Found');
             }
-            loopPoint.next = new Node(newValue, loopPoint.next)
-            this.size++
+            loopPoint.next = new Node(newValue, loopPoint.next);
+            this.size++;
         }
     }
+
     toString() {
         let start = this.head;
         if (!this.head) {
@@ -91,33 +88,32 @@ class Linkedlist {
     }
 
     kthFromEnd(k) {
-        if (k < 0) return 'Enter a positive number'
-        let kth = this.size - k;
-        if (kth < 0) return `The input exceeds the length of the linkedList length is: ${this.size}`
-        let currentNode = this.head
-        for (let i = 0; i < kth - 1; i++) {
-            currentNode = currentNode.next
+        if (k <= 0) {
+            return 'k should be a positive integer';
         }
-        // console.log(currentNode.value)
-        return currentNode.value
+        let p1 = this.head;
+        let p2 = this.head;
+        for (let i = 0; i < k; i++) {
+            if (p2 === null) {
+                return 'k is greater than the length of the linked list';
+            }
+            p2 = p2.next;
+        }
+
+        while (p2 !== null) {
+            p1 = p1.next;
+            p2 = p2.next;
+        }
+        if (p1 === null) {
+            return 'k is greater than the length of the linked list';
+        }
+        return p1.value;
     }
 }
+ll.insert(1);
+ll.insert(2);
+ll.insert(3);
+ll.insert(4);
+ll.insert(5);
 
-
-let ll = new Linkedlist();
-ll.insert(25)
-ll.insert(26)
-ll.insert(27)
-ll.insert(28)
-ll.insert(30)
-ll.insert(31)
-ll.insert(32)
-ll.insert(33)
-ll.insert(34)
-ll.insert(35)
-console.log(ll);
-console.log(ll.toString());
-console.log(ll.kthFromEnd(-5))
-console.log(ll.head)
-
-module.exports = Linkedlist
+module.exports = LinkedList;
