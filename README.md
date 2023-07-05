@@ -31,7 +31,7 @@ To run your tests
 |6- Code challenge 6 linked list insertions  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge6-linked-list-insertions)   |
 |7- Code challenge 7 linked list kth  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge7linked-list-kth)   |
 |8- Code challenge 8 Zipped Linked Lists  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge8-linked-list-zip/readme.md)   |
-|8- Code challenge  reverse Linked List  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge9-reverseSinglyLinkedList)   |
+|9- Code challenge  reverse Linked List  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge9-reverseSinglyLinkedList)   |
 
 
 
