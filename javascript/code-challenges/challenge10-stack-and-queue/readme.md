@@ -2,7 +2,7 @@
 
 ## Approach & Efficiency
 
-#### Approach
+### Approach
 Stack:
 
 The Stack class represents a stack data structure. The stack is implemented using a linked list, where the top points to the first element in the stack.
@@ -27,7 +27,7 @@ peek(): This method returns the value of the node at the front of the queue with
 
 isEmpty(): This method checks if the queue is empty by verifying if the front is null. The time complexity of this operation is O(1) since it only involves a single comparison.
 
-##### Efficiency
+#### Efficiency
 
 The time complexity of the key operations (push, pop, enqueue, and dequeue) is O(1)
 
