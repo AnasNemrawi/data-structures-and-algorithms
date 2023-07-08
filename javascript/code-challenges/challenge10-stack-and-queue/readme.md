@@ -19,7 +19,7 @@ Queue:
 
 The Queue class represents a queue data structure. The queue is implemented using a linked list, where the front points to the first element and the rear points to the last element.
 
-enqueue(value): This method adds a new node with the given value to the rear of the queue. If the queue is empty, both front and rear are set to the new node. Otherwise, the rear is updated to the new node, and the next of the previous rear is set to the new node. The time complexity of this operation is O(1) since it takes a constant amount of time to add a node to the rear.
+enqueue(value): This method adds a new node with the given value to the rear of the queue. If the queue is empty, both the front and rear are set to the new node. Otherwise, the rear is updated to the new node, and the next of the previous rear is set to the new node. The time complexity of this operation is O(1) since it takes a constant amount of time to add a node to the rear.
 
 dequeue(): This method removes and returns the value of the node at the front of the queue. It updates the front to point to the next node and removes the reference to the previous front node. The time complexity of this operation is O(1) since it takes a constant amount of time to remove the front node.
 
@@ -29,7 +29,7 @@ isEmpty(): This method checks if the queue is empty by verifying if the front is
 
 #### Efficiency
 
-The time complexity of the key operations (push, pop, enqueue, and dequeue) is O(1)
+The time complexity of the key operations (push, pop, enqueue, isEmpty ,peek and dequeue) is O(1)
 
 
 ## Solution
