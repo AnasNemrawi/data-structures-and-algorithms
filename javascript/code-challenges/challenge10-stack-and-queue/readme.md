@@ -34,8 +34,6 @@ The time complexity of the key operations (push, pop, enqueue, isEmpty ,peek and
 
 ## Solution
 
-#### Queue
-
  ```javascript
 
 class Stack {
