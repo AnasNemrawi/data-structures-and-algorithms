@@ -32,8 +32,8 @@ To run your tests
 |7- Code challenge 7 linked list kth  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge7linked-list-kth)   |
 |8- Code challenge 8 Zipped Linked Lists  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge8-linked-list-zip/readme.md)   |
 |9- Code challenge 9 reverse Linked List  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge9-reverseSinglyLinkedList)   |
-
-
+|10- Code challenge 10 Stack And Queue  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge10-stack-and-queue)   |
+|11- Code challenge 11 Implement a Queue using two Stacks  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge11-stack-queue-pseudo)   |
 
 
 
