@@ -18,6 +18,9 @@
 
 2. Dequeue Efficiency:If the respective queue is empty, the dequeue operation also takes O(1) time, However In the worst case, when the queue is full, the time complexity of dequeue can be O(n).
 
+## Whiteboard 
+![white board](./whitebord.jpg)
+
 ## Solution
 
  ```javascript
@@ -57,5 +60,3 @@ class AnimalShelter {
 
     ```
 
-## Whiteboard 
-![white board](./whitebord.jpg)
