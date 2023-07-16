@@ -5,7 +5,7 @@
 1. The Algorithm:
 It iterates through each character in the input string and performs the following steps:
 If an opening bracket is encountered, it is pushed onto the stack.
-If a closing bracket is encountered, it checks if the stack is empty or if the corresponding opening bracket matches the current closing bracket. If either condition is not met, it returns False indicating unbalanced brackets.
+If a closing bracket is encountered, it checks if the stack is empty or if the  opening bracket matches the current closing bracket. If either condition is not met, it returns False indicating unbalanced brackets.
 After iterating through all characters, it checks if there are any remaining opening brackets in the stack. If there are, it returns False. Otherwise, it returns True, indicating balanced brackets.
 
 2. Complexity: it is O(n), where n is the length of the input string. This is because the algorithm iterates through each character of the string exactly once.
