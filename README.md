@@ -38,5 +38,5 @@ To run your tests
 |13- Code challenge 13 Stack Queue Brackets  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge13-stack-queue-brackets)   |
 |14- Code challenge 14 Max Stack  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge14)   |
 |15- Code challenge 15 Binary Search Tree  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge15-Trees)   |
-
+|16- Code challenge 16 Max in Binary Tree  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge16-tree-max)   |
 
