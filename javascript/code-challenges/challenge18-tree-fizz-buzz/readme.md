@@ -1,8 +1,8 @@
 # k-ary Tree Fizz Buzz 
 
-Write a function called fizz buzz tree
-Arguments: k-ary tree
-Return: new k-ary tree
+Write a function called fizz buzz tree:
+- Arguments: k-ary tree
+- Return: new k-ary tree
 
 Determine whether or not the value of each node is divisible by 3, 5 or both. Create a new tree with the same structure as the original, but the values modified as follows:
 
