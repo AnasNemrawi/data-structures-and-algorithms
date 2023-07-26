@@ -1,4 +1,4 @@
-# k-ary Tree fizz Buzz 
+# k-ary Tree Fizz Buzz 
 
 Write a function called fizz buzz tree
 Arguments: k-ary tree
