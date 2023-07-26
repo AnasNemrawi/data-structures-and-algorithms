@@ -40,3 +40,4 @@ To run your tests
 |15- Code challenge 15 Binary Search Tree  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge15-Trees)   |
 |16- Code challenge 16 Max in Binary Tree  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge16-tree-max)   |
 |17- Code challenge 17 Breadth-first Traversal  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge17-tree-breadth-first)   |
+|18- Code challenge 18 Tree Fizz-Buzz  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge18-tree-fizz-buzz/readme.md)   |
