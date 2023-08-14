@@ -9,16 +9,19 @@
 The class should contain the following methods
 
 A. insert
+
 - Arguments: value
 - Returns: nothing
 - Adds a new node with that value to the head of the list with an O(1) Time performance.
 
 B. includes
+
 - Arguments: value
 - Returns: Boolean
 - Indicates whether that value exists as a Node’s value somewhere within the list.
 
 C. to string
+
 - Arguments: none
 - Returns: a string representing all the values in the Linked List, formatted as:
 "{ a } -> { b } -> { c } -> NULL"
