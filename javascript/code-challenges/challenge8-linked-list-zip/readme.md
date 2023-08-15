@@ -22,8 +22,19 @@ class LinkedList {
         this.size = 0;
     }
 
+    append(newValue) {
+        const node1 = new Node(newValue);
 
-function zipLists(list1, list2) {
+        if (!this.head) {
+            this.head = node1;
+            this.tail = node1;
+        } else {
+            this.tail.next = node1;
+            this.tail = node1;
+        }
+    }
+
+zipLists(list1, list2) {
     let zippedList = new LinkedList();
     let first = list1.head;
     let second = list2.head;
