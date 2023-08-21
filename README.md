@@ -42,3 +42,7 @@ To run your tests
 |17- Code challenge 17 Breadth-first Traversal  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge17-tree-breadth-first)   |
 |18- Code challenge 18 Tree Fizz-Buzz  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge18-tree-fizz-buzz/readme.md)   |
 |19- Code challenge 19 Sum of  odd numbers in binary search tree  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge19-Tree_sum-odd)   |
+|20- Code challenge 26  Sorting & Insertion |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge26-sorting%26insertion)   |
+
+
+
