@@ -44,5 +44,6 @@ To run your tests
 |19- Code challenge 19 Sum of  odd numbers in binary search tree  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge19-Tree_sum-odd)   |
 |20- Code challenge 26  Sorting & Insertion |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge26-sorting%26insertion)   |
 |21- Code challenge 27  Merge Sort |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge27-Merge-Sort)   |
+|22- Code challenge 28  Sorting: Comparisons |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge28-Sorting-Comparisons)   |
 
 
