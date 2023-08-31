@@ -45,7 +45,7 @@ To run your tests
 |20- Code challenge 26  Sorting & Insertion |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge26-sorting%26insertion)   |
 |21- Code challenge 27  Merge Sort |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge27-Merge-Sort)   |
 |22- Code challenge 28  Sorting: Comparisons |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge28-Sorting-Comparisons)   |
-|23- Code challenge 29   | Insertion Sort | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge29-insertionSort)   |
+|23- Code challenge 29    Insertion Sort | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge29-insertionSort)   |
 |24- Code challenge 30  Hash Table |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge30-hashtable)   |
 
 
