@@ -47,6 +47,6 @@ To run your tests
 |22- Code challenge 28  Sorting: Comparisons |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge28-Sorting-Comparisons)   |
 |23- Code challenge 29    Insertion Sort | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge29-insertionSort)   |
 |24- Code challenge 30  Hash Table |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge30-hashtable)   |
-
+|25- Code challenge 31  Hashmap Repeated Word |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge31-hashmap-repeated-word)   |
 
 
