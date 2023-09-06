@@ -48,5 +48,5 @@ To run your tests
 |23- Code challenge 29    Insertion Sort | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge29-insertionSort)   |
 |24- Code challenge 30  Hash Table |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge30-hashtable)   |
 |25- Code challenge 31  Hashmap Repeated Word |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge31-hashmap-repeated-word)   |
-
+|26- Code challenge 32  Tree Intersection |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge32-tree-intersection/readme.md)   |
 
