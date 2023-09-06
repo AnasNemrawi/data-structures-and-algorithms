@@ -1,10 +1,10 @@
 # Tree Intersection
 	> to run (node tree-intersection.js)
 
-## Proplem Domain
+## Problem Domain
 
 - Write a function called tree_intersection that takes two binary trees as parameters.
-- Using your Hashmap implementation as a part of your algorithm, return a set of values found in both trees.
+- Return a set of values found in both trees using your Hashmap implementation as part of your algorithm.
 
 	
 ## Whiteboard
@@ -34,8 +34,8 @@ function tree_intersection(tree1, tree2) {
 	return result;
 }
 ```
-## Algorthim
-1. We create a Hash Map.
-2. add the values of the first tree to the hash map.
-3. use the has method to check if each value is in the hash map. If it is, we add it to the result array.
-4. we return the result array.
+## Algorithm
+1. Create a Hash Map.
+2. Add the values of the first tree to the hash map.
+3. Use the has method to check if each value is in the hash map. If it is, we add it to the result array.
+4. Return the result array.
