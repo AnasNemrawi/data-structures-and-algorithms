@@ -52,3 +52,4 @@ To run your tests
 |27- Code challenge 33  Join Hash Maps |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge33-hashmap-left-join/readme.md)   |
 |28- Code challenge 34 Hash Table count Words  |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge34-hash-table)   |
 |29- Code challenge 35  Graphs |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge35-Graphs)   |
+|20- Code challenge 36  Graphs Breadth First |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge36-graph-breadth-first)   |
