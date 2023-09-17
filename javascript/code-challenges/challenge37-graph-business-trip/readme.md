@@ -1,6 +1,5 @@
 # Graphs (graph business trip)
 
-> to run (node index.js)
 
 ## Problem Domain
 > Write a method for the Graph class called business trip that takes graph array of city names and Return the cost of the trip (if it’s possible) or null (if not) Determine whether the trip is possible with direct flights, and how much it would cost.
