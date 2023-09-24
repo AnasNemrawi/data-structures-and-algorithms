@@ -1,7 +1,7 @@
 'use strict';
 
 const Edge = require("./Edge");
-const Vertex = require("../challenge35-Graphs/Vertex");
+const Vertex = require("./Vertex");
 
 
 class Graph {
@@ -41,6 +41,31 @@ class Graph {
 	size() {
 		return this.adjacencyList.size;
 	}
+
+	depthFirst(node) {
+		if (!this.adjacencyList.has(node)) {
+			return null;
+		}
+
+		const visited = new Set();
+		const result = [];
+
+		const dfs = (currentNode) => {
+			visited.add(currentNode);
+			result.push(currentNode);
+
+			const neighbors = this.adjacencyList.get(currentNode);
+
+			for (const neighbor of neighbors) {
+				if (!visited.has(neighbor.end)) {
+					dfs(neighbor.end);
+				}
+			}
+		};
+
+		dfs(node);
+		return result;
+	}
 }
 
 const graph = new Graph();
@@ -69,3 +94,9 @@ graph.addEdge(five, six);
 console.log('Vertices:', graph.getVertices());
 console.log('Neighbors of Vertex 2:', graph.getNeighbors(two));
 console.log('Graph Size:', graph.size());
+
+
+const depthFirstTraversal = graph.depthFirst(one);
+console.log('Depth-First Traversal:', depthFirstTraversal);
+
+module.exports = Graph;

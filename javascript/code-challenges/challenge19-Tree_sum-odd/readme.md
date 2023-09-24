@@ -21,37 +21,6 @@ class BinarySearchTree extends BinaryTree {
         }
     }
 
-    addNode(node, newNode) {
-        if (newNode.value < node.value) {
-            if (node.left === null) {
-                node.left = newNode;
-            } else {
-                this.addNode(node.left, newNode);
-            }
-        } else {
-            if (node.right === null) {
-                node.right = newNode;
-            } else {
-                this.addNode(node.right, newNode);
-            }
-        }
-    }
-
-    contains(root, value) {
-        if (root === null) {
-            return false;
-        }
-
-        if (value === root.value) {
-            return true;
-        }
-
-        if (value < root.value) {
-            return this.contains(root.left, value);
-        } else {
-            return this.contains(root.right, value);
-        }
-    }
 
     sumOdd() {
         let sum = 0;
