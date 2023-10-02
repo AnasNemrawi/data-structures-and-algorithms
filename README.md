@@ -56,5 +56,5 @@ To run your tests
 |31- Code challenge 37  Graphs Business Trip |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge37-graph-business-trip)   |
 |32- Code challenge 38  Graph Depth First |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge38-graph-depth-first)   |
 |33- Code challenge 39  Graph Adjacency list |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge39-graph-adjacency-list)   |
-|34- Code challenge 41 |  Linked List ( Navigator ) | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge41-LinkedList-Navigator%20)   |
-|35- Code challenge 42 | Sanitized Url  | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge42-sanitizeUrl)   |
+|34- Code challenge 41   Linked List ( Navigator ) | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge41-LinkedList-Navigator%20)   |
+|35- Code challenge 42  Sanitized Url  | [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/tree/main/javascript/code-challenges/challenge42-sanitizeUrl)   |
