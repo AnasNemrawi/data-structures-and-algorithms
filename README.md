@@ -21,7 +21,7 @@ To run your tests
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
 
 
-| Assignments                       | Links                                                               |
+| Javascript Code Challenges                       | Links                                                               |
 | ---                               |:---------------------------------------------------------------------------------------:|
 |1- Code challenge 1 reverse Array   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/Challenge1-array-reverse/readme.md)  |
 |2- Code challenge 2 array insert shift   |   [link](https://github.com/AnasNemrawi/data-structures-and-algorithms/blob/main/javascript/code-challenges/challenge2-array-insert-shift/readme.md)  |
